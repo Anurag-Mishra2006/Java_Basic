@@ -1,0 +1,13 @@
+Why Java?
+
+1. Java is used to build Android apps, desktop and web apps, 
+enterprise backend systems, and cloud-based software.
+
+2. Java is in high demand with many job opportunities in software development.
+
+3. Java has popular frameworks like Spring and Hibernate which makes Java powerful for enterprise applications.
+
+4. Java supports object-oriented programming for clean and reusable code.
+
+5. It runs on all platforms Windows, Mac, and Linux using the JVM.
+
