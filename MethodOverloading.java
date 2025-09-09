@@ -9,7 +9,7 @@ public class MethodOverloading {
     }
 
     // ** EVERY METHOD HAS ITS OWN STACK
-    public static void main(StringLearning arg[]){
+    public static void main(String arg[]){
         Calculator cal = new Calculator();
         System.out.println(cal.add(5,8));
         System.out.println(cal.add(5,8,9));
