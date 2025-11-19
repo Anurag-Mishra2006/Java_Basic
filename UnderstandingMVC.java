@@ -11,12 +11,15 @@ class StudentModel{
     public void setStudentname(String name){
         studentname = name;
     }
+
     public void setStudentRollNo(String roll){
         studentRollNo = roll;
     }
+
     public String getStudentName(){
         return studentname;
     }
+
     public String getStudentRollNo(){
         return studentRollNo;
     }
@@ -26,7 +29,7 @@ class StudentModel{
 class ModelView{
     public void display(String studentname, String studentroll){
         System.out.println("Student Details");
-        System.out.println("Name "+studentname);
+        System.out.println("Name "+ studentname);
         System.out.println("Roll No. " + studentroll);
     }
 }
